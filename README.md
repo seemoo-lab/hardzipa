@@ -1,5 +1,5 @@
 # HardZiPA Codebase
-This repository contains the codebase for the HardZiPA system published as: "Hardening and Speeding Up Zero-interaction Pairing and Authentication" by Mikhail Fomichev, Timm Lippert, and Matthias Hollick in *Proceedings of the 2023 ACM International Conference on Embedded Wireless Systems and Networks (EWSN 2023)*.
+This repository contains the codebase for the HardZiPA system published as: "Hardening and Speeding Up Zero-interaction Pairing and Authentication" by Mikhail Fomichev, Timm Lippert, and Matthias Hollick in *Proceedings of the 2023 ACM International Conference on Embedded Wireless Systems and Networks (EWSN' 23)*.
 
 The relevant datasets can be found on [Zenodo](https://zenodo.org/record/8263497). The pre-print version of our paper is available on [arXiv](https://arxiv.org/abs/2306.04458).
 
