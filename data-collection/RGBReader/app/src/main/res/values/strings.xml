@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RGBReader</string>
+    <string name="start">Start Recording</string>
+    <string name="recording">Recording</string>
+    <string name="blue">Blue</string>
+    <string name="daylight">Daylight</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+</resources>
